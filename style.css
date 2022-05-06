@@ -1,0 +1,18 @@
+.edu-box{
+    text-align: center;
+}
+.img-section{
+    padding: 5px;
+    border: 0.5px none purple;
+    margin-left:900px;
+    margin-right: 500px;
+    border-radius: 50px;
+    width:50px;
+
+}
+.btn{
+    border-radius: 10px;
+}
+.btn:hover{
+    box-shadow: 5px 5px 10px rgb(187, 40, 167);
+}
