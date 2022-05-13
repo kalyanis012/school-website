@@ -1,0 +1,46 @@
+@font-face { font-family: Circular Std; src: url("/CircularStd-Medium.otf"); } 
+
+.btn:hover{
+    background-color: crimson !important;
+    text-decoration: underline;
+}
+.book-main{
+    padding: 40px;
+}
+.book-body{
+    box-shadow: 0px 0px 15px 4px gainsboro;
+    border-radius: 15px;
+    background-color: rgb(236, 204, 209)
+    ;
+}
+.title-main{
+    background-image: url("./home.jpg");
+
+    background-size: 110% 123%;
+}
+.box1 h1 {
+    font-family: Circular Std;
+    font-weight: 600;
+}
+.box2 p{
+    font-family: Circular Std;
+    font-weight: 500;
+    color : darkblue;
+    text-decoration: underline ;
+    text-transform: capitalize;
+
+}
+.col-4 h2{
+    font-family: Circular Std;
+    font-weight: 600;
+}
+.col-4 h3{
+    font-family: Circular Std;
+    font-weight: 600;
+    font-size: 20px;
+}
+.col-4 a{
+    font-family: Circular Std;
+    font-weight: 600;
+
+}
